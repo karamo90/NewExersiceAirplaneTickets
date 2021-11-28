@@ -1,0 +1,7 @@
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\bin\Debug\AirplaneTickets.exe.config
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\bin\Debug\AirplaneTickets.exe
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\bin\Debug\AirplaneTickets.pdb
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\obj\Debug\AirplaneTickets.csproj.AssemblyReference.cache
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\obj\Debug\AirplaneTickets.csproj.CoreCompileInputs.cache
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\obj\Debug\AirplaneTickets.exe
+C:\Users\karam\source\repos\AirplaneTickets\AirplaneTickets\obj\Debug\AirplaneTickets.pdb
